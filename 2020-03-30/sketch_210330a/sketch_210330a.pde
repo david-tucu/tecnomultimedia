@@ -1,7 +1,7 @@
 // David Bedoian
 // fecha..
 //esto es un sketch (.pde)
-
+//
 
 size(400,300); //establece el tamaño de la ventana
 background(0,255,255); //pinta la ventana
