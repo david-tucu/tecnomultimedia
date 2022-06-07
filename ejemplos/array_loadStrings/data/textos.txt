@@ -1,0 +1,8 @@
+CLIC PARA EMPEZAR
+Al igual que las variables, un Arreglo (Array en inglés) es un espacio en memoria al que puedo acceder durante la ejecución de mi aplicación para almacenar o consultar un dato.
+A diferencia de las variables, un Arreglo permite almacenar VARIOS valores.
+Los datos dentro de un Arreglo se organizan en casillas numeradas.
+Dos aclaraciones:
+Es común que en otros lenguajes esas casillas también puedan tener un nombre, pero nosotros vamos a referirnos a cada casilla por su índice numérico.
+En algunos casos puede resultar mejor utilizar ArrayList, pero no será lo que veremos en esta sección.
+FIN DEL EJEMPLO
